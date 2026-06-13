@@ -1,0 +1,44 @@
+VENDOR SERVICE AGREEMENT
+
+This Service Agreement ("Agreement") is entered into between CloudSoft Solutions Inc. ("Vendor")
+and the purchasing enterprise ("Client") effective as of the date of signing.
+
+1. PAYMENT TERMS
+   The Client agrees to remit payment within ninety (90) days of invoice date (Net-90).
+   A late fee of 1.5% per month will apply to overdue balances. An upfront deposit of 25%
+   of the total contract value is required before service commencement.
+
+2. LIABILITY LIMITATION
+   In no event shall CloudSoft Solutions Inc. be liable for any indirect, incidental, or
+   consequential damages. The Vendor's total cumulative liability under this Agreement shall
+   not exceed five hundred dollars ($500) regardless of the cause of action.
+
+3. INDEMNIFICATION
+   Client shall indemnify, defend, and hold harmless Vendor from and against any and all
+   claims, damages, losses, and expenses arising out of Client's use of the services.
+   Vendor assumes no indemnification obligations toward Client.
+
+4. DATA SECURITY
+   Vendor follows industry best practices for data handling. No specific compliance
+   certifications (SOC 2, ISO 27001, GDPR DPA) are represented or warranted herein.
+
+5. AUTO-RENEWAL
+   This Agreement automatically renews for successive one-year terms. Client must provide
+   written notice of non-renewal no later than fifteen (15) days prior to the renewal date.
+
+6. GOVERNING LAW
+   This Agreement shall be governed by the laws of the Cayman Islands.
+
+7. SERVICE LEVELS
+   Vendor targets 97% monthly uptime. No service credits or penalties apply for downtime
+   below this threshold.
+
+8. TERMINATION
+   Neither party may terminate this Agreement for convenience during the initial 24-month
+   term. After the initial term, termination requires 90 days written notice.
+
+9. ENTIRE AGREEMENT
+   This Agreement constitutes the entire agreement between the parties.
+
+Signed on behalf of CloudSoft Solutions Inc.
+John Doe, Chief Revenue Officer
