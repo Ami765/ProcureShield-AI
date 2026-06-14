@@ -1,4 +1,3 @@
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/9f3b594a-e2d2-4071-a3f0-6960d71f541f" /># 🛡️ ProcureShield AI
 
 **Autonomous Multi-Agent Enterprise Procurement Document Reviewer**  
 *Agents League Hackathon Submission*
