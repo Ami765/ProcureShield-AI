@@ -1,4 +1,4 @@
-# 🛡️ ProcureShield AI
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/9f3b594a-e2d2-4071-a3f0-6960d71f541f" /># 🛡️ ProcureShield AI
 
 **Autonomous Multi-Agent Enterprise Procurement Document Reviewer**  
 *Agents League Hackathon Submission*
@@ -43,6 +43,25 @@ procureshield_ai/
 ---
 
 ## Quick Start
+
+# 🚀 Setup Instructions for Judges
+
+To run and evaluate the live agent swarm, please configure your own OpenAI API key. The project is designed to automatically read your local environment variables.
+
+### ⚙️ Quick Start Installation
+1. Clone this repository to your local workspace.
+2. Create a `.env` file in the root directory and add your key:
+   ```env
+   OPENAI_API_KEY=your_actual_openai_key_here
+   ```
+3. Run the installation and start the backend:
+   ```bash
+   pip install -r requirements.txt
+   uvicorn main:app --reload
+   ```
+
+*Note: If no API key is provided, the system will automatically fall back to a high-fidelity **Offline Demo Mode** so you can still experience the multi-agent UI pipeline workflow without any API errors!*
+
 
 ### 1. Install dependencies
 
